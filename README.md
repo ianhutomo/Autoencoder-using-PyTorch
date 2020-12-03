@@ -12,3 +12,5 @@ Define network with two groups of layers:
 Include some implementation to minimize the following loss:
 
 $$\mathcal{L} = \frac{1}{N} \sum_{i=1}^N \|x_i - f^{\text{decoder}}(f^{\text{encoder}}(x_i))\|_2^2$$
+
+<img src="https://render.githubusercontent.com/render/math?math=\mathcal{L} = \frac{1}{N} \sum_{i=1}^N \|x_i - f^{\text{decoder}}(f^{\text{encoder}}(x_i))\|_2^2">
