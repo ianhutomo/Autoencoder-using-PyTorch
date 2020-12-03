@@ -1,1 +1,1 @@
-# variatonal-autoencoder-pytorch
+# Variatonal Autoencoder using PyTorch
