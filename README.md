@@ -1,6 +1,6 @@
-# Variational Autoencoder using PyTorch
+# Autoencoder using PyTorch
 
-Testing some implementation of Variational Auto Encoder (VAE) using PyTorch
+Testing some implementation of AutoEncoder using PyTorch
 
 - Denoising Auto Encoders
 - Variational Auto Encoders
